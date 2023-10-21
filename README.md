@@ -1,1 +1,1 @@
-# my-django-template
+# my-web-template
